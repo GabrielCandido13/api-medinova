@@ -1,13 +1,12 @@
-# API SOLUTION NET
+# API MEDINOVA
 
-API DO NOSSO PROJETO SOLUTION NET
+API DO NOSSO PROJETO MEDINOVA
 
 ENDPOINTS DISPONÍVEIS NA API
 
-# /interacao
+# /paciente
 # /suporte
-# /usuarios
 
-Deixamos um PDF disponível nesse repositório para melhor entendimento do projeto
+Deixamos um PDF disponível nesse repositório para melhor entendimento do projeto e testes para a API
 
-# LINK DO VIDEO DO YOUTUBE: https://youtu.be/b5EXkmkNEW0
+# LINK DO VIDEO DO YOUTUBE: 
